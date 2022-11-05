@@ -1,10 +1,12 @@
 # Sdev
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fsdev.gg)](https://sdev.gg)
+[![Website](https://img.shields.io/website?label=sdev.gg&style=for-the-badge&url=https%3A%2F%2Fsdev.gg)](https://sdev.gg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SdevGG?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSdev-gg&screen_name=SdevGG)
 
-## You Imagine
+![You imagine. We create. We mantain.](/assets/title.gif)
 
-## We create
+Tell us how would will be the perfect website for your project and we will build it. And we will deploy it.
 
-## We deploy
+## Trusted by
+
+<div>
